@@ -46,6 +46,8 @@ def entropy (m,v):
 
     entropy = m.getEntropy (size, choose)
 
+    time.sleep(1)
+
     print(v.explosion)
 
     print (v.print_entropy(size, choose, entropy))

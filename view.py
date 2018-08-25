@@ -7,7 +7,7 @@ welcome = """
 ║╣ │││ │ ├┬┘│ │├─┘└┬┘  ║  ├─┤│  │  │ ││  ├─┤ │ │ │├┬┘   ║ │ ││ ││  
 ╚═╝┘└┘ ┴ ┴└─└─┘┴   ┴   ╚═╝┴ ┴┴─┘└─┘└─┘┴─┘┴ ┴ ┴ └─┘┴└─   ╩ └─┘└─┘┴─┘
 
-                =Calculate Password Entropy=
+                  =Calculate Password Entropy=
 """
 
 explosion = """
