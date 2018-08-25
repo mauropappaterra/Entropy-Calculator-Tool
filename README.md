@@ -26,5 +26,5 @@ A Python based command line application to assert entropy calculations.
 1. Open Python <br>
 2. On the prompt execute: <br>
 &nbsp &nbsp &nbsp <code>> exec(open("<i>path</i>/<i>entropy</i>.py").read())</code> <br>
-&nbsp &nbsp &nbsp <b>Notice: Replace <i>path</i> with the local path to the folder that contains the script you want to execute</b> <br>
+&nbsp &nbsp &nbsp <b>Notice: Replace <i>path</i> with the local path to the folder that contains the script entropy.py</b> <br>
 <br>
