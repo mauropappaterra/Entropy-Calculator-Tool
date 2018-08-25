@@ -1,8 +1,11 @@
+<pre>
 ╔═╗┌┐┌┌┬┐┬─┐┌─┐┌─┐┬ ┬  ╔═╗┌─┐┬  ┌─┐┬ ┬┬  ┌─┐┌┬┐┌─┐┬─┐  ╔╦╗┌─┐┌─┐┬
 ║╣ │││ │ ├┬┘│ │├─┘└┬┘  ║  ├─┤│  │  │ ││  ├─┤ │ │ │├┬┘   ║ │ ││ ││
 ╚═╝┘└┘ ┴ ┴└─└─┘┴   ┴   ╚═╝┴ ┴┴─┘└─┘└─┘┴─┘┴ ┴ ┴ └─┘┴└─   ╩ └─┘└─┘┴─┘
 
                   =Calculate Password Entropy=
+
+</pre>
 
 A Python based command line application to assert entropy calculations.
 
